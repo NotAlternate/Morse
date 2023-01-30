@@ -1,0 +1,13 @@
+[package]
+name = "morse"
+description = "Morse code encoder and decoder for audio and text."
+authors = ["NotAlternate <NotAlternate_@outlook.com>"]
+repository = "https://github.com/NotAlternate/Morse"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE"
+
+[dependencies]
+hound = "3.5.0"
