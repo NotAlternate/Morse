@@ -1,8 +1,8 @@
 # Morse: Encoder and decoder
 
-![GitHub top language](https://img.shields.io/github/languages/top/NotAlternate/DuoHexyne?color=A0E0A0&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/NotAlternate/DuoHexyne?color=A0E0A0&style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NotAlternate/DuoHexyne?color=A0E0A0&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/NotAlternate/Morse?color=A0E0A0&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/NotAlternate/Morse?color=A0E0A0&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NotAlternate/Morse?color=A0E0A0&style=flat-square)
 
 Morse is an encoder and decoder for [morse code](). The program is capable of encoding or decoding in either audio or text. In default, it uses the [international morse code]() but can be modified in the cheat sheet.
 
